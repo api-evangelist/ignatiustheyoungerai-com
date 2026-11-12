@@ -1,4 +1,4 @@
-# ignatiustheyoungerai-com
+# Ignatius The Younger AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,108 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ignatiustheyoungerai-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://ignatiustheyoungerai.com/
+Ignatius The Younger AI provides tools to verify AI output before sign‑off, offering a dashboard that measures time saved by AI and quantifies the cost of AI errors. The platform documents 24 failure modes, pricing models, and control mechanisms to help organizations manage AI risk and accountability.
+
+**Areas:** Verification · AI Risk · AI Accountability · Pricing Intelligence · Agent API
+
+## Ignatius The Younger AI on APIs.io
+
+Everything profiled for Ignatius The Younger AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ignatiustheyoungerai-com/](https://apis.io/providers/ignatiustheyoungerai-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (9)
+
+- [Agent Pricing Index](https://apis.io/apis/ignatiustheyoungerai-com/agent-pricing-index/) — Pricing API providing published pricing rows for AI agents and products.
+- [Ignatius The Younger AI Catalogue API](https://apis.io/apis/ignatiustheyoungerai-com/ignatiustheyoungerai-com-catalogue-api/) — The Catalogue API from Ignatius The Younger AI — 1 operation(s) for catalogue.
+- [Ignatius The Younger AI Fde Lessons API](https://apis.io/apis/ignatiustheyoungerai-com/ignatiustheyoungerai-com-fde-lessons-api/) — The Fde Lessons API from Ignatius The Younger AI — 2 operation(s) for fde lessons.
+- [Ignatius The Younger AI Fde Playbooks API](https://apis.io/apis/ignatiustheyoungerai-com/ignatiustheyoungerai-com-fde-playbooks-api/) — The Fde Playbooks API from Ignatius The Younger AI — 1 operation(s) for fde playbooks.
+- [Ignatius The Younger AI Fde Preship Checklist API](https://apis.io/apis/ignatiustheyoungerai-com/ignatiustheyoungerai-com-fde-preship-checklist-api/) — The Fde Preship Checklist API from Ignatius The Younger AI — 1 operation(s) for fde preship checklist.
+- [Ignatius The Younger AI Pricing API](https://apis.io/apis/ignatiustheyoungerai-com/ignatiustheyoungerai-com-pricing-api/) — The Pricing API from Ignatius The Younger AI — 4 operation(s) for pricing.
+- [Ignatius The Younger AI Stats API](https://apis.io/apis/ignatiustheyoungerai-com/ignatiustheyoungerai-com-stats-api/) — The Stats API from Ignatius The Younger AI — 1 operation(s) for stats.
+- [Ignatius The Younger AI Warn Feed API](https://apis.io/apis/ignatiustheyoungerai-com/ignatiustheyoungerai-com-warn-feed-api/) — The Warn Feed API from Ignatius The Younger AI — 1 operation(s) for warn feed.
+- [Ignatius The Younger AI .well Known API](https://apis.io/apis/ignatiustheyoungerai-com/ignatiustheyoungerai-com-well-known-api/) — The .well Known API from Ignatius The Younger AI — 2 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Ignatius The Younger AI Agentic Access](https://apis.io/agentic-access/ignatiustheyoungerai-com/ignatiustheyoungerai-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Ignatius The Younger AI API Rules](https://apis.io/rules/ignatiustheyoungerai-com/ignatiustheyoungerai-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ignatius The Younger AI Domain Security](https://apis.io/security/ignatiustheyoungerai-com/ignatiustheyoungerai-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ignatiustheyoungerai.com/)
+- [Pricing](https://ignatiustheyoungerai.com/pricing-index)
+- [GitHub](https://github.com/IgnatiusTheYoungerAI)
+
+## API Evangelist rating
+
+**Kin Score 28.5** — thin · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 42.8 |
+| Contract governance | 65.5 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 6.4 |
+| Access clarity | 10.5 |
+
+**Agent readiness 30.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ignatiustheyoungerai-com/](https://apis.io/providers/ignatiustheyoungerai-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ignatius The Younger AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ignatiustheyoungerai-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
